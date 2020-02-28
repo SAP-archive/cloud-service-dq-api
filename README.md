@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+We have decided to stop the maintenance of this public GitHub repository.
+
 # cloud-service-dq-api
 
 Simple service wrapper/API for the SAP HANA Cloud Platform, Data Quality Microservice (DQaaS) 
